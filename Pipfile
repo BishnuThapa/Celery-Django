@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 django = "*"
+redis = "*"
+celery = "*"
+eventlet = "*"
 
 [dev-packages]
 
